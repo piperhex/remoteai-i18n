@@ -26,7 +26,7 @@
   "market.extensionsCompatibility": "Некоторые расширения используют функции Chrome и могут работать не полностью. После установки обновите страницы.",
   "market.extensionsUnsupported": "Это устройство пока не поддерживает установку расширений Chrome.",
   "market.extensionsUnavailable": "Не удалось подключиться к браузеру. Подключитесь к компьютеру и повторите попытку.",
-  "market.extensionsInvalid": "Не удалось прочитать расширение. Выберите распакованную папку с корректным manifest.json.",
+  "market.extensionsInvalid": "Не удалось прочитать расширение. Выберите корректный пакет или полную папку с manifest.json.",
   "market.extensionsFailed": "Операция не выполнена. Проверьте совместимость расширения и повторите попытку.",
   "market.extensionsStorageFailed": "Не удалось сохранить настройки. Проверьте свободное место на диске и повторите попытку.",
   "market.extensionsMissing": "Расширение больше недоступно. Обновите список и повторите попытку.",
@@ -35,5 +35,14 @@
   "market.extensionsBack": "Назад к расширениям",
   "market.extensionsRefresh": "Обновить список",
   "market.extensionsLocalNotice": "Управление расширениями встроенного браузера этого компьютера.",
-  "market.extensionsRemoteNotice": "Управление расширениями на подключённом компьютере; страницы текущего браузера не затрагиваются."
+  "market.extensionsRemoteNotice": "Управление расширениями на подключённом компьютере; страницы текущего браузера не затрагиваются.",
+  "market.extensionsBrowse": "Обзор файлов",
+  "market.extensionsBrowseTitle": "Выберите файл или папку расширения",
+  "market.extensionsDropTitle": "Перетащите файл или папку расширения",
+  "market.extensionsDropHint": "ZIP, CRX или распакованная папка расширения",
+  "market.extensionsRemoteDropHint": "Файлы будут переданы на подключённый компьютер. Поддерживаются ZIP, CRX и папки.",
+  "market.extensionsDropInvalid": "Добавьте один пакет расширения или полную папку размером до 256 МБ.",
+  "market.extensionsSearch": "Поиск расширений",
+  "market.extensionsChromeAvailable": "Расширения в Chrome",
+  "market.extensionsEmptyInstalled": "Расширения ещё не добавлены"
 }

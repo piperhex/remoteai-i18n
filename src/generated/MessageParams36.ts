@@ -47,13 +47,20 @@ export interface MessageParams36 {
   "market.extensionsAssistant": Record<string, never>;
   "market.extensionsAssistantInfo": Record<string, never>;
   "market.extensionsBack": Record<string, never>;
+  "market.extensionsBrowse": Record<string, never>;
+  "market.extensionsBrowseTitle": Record<string, never>;
   "market.extensionsBuiltin": Record<string, never>;
   "market.extensionsChoose": Record<string, never>;
+  "market.extensionsChromeAvailable": Record<string, never>;
   "market.extensionsChromeHelp": Record<string, never>;
   "market.extensionsCompatibility": Record<string, never>;
   "market.extensionsDisable": Record<string, never>;
   "market.extensionsDisabled": Record<string, never>;
+  "market.extensionsDropHint": Record<string, never>;
+  "market.extensionsDropInvalid": Record<string, never>;
+  "market.extensionsDropTitle": Record<string, never>;
   "market.extensionsEmptyChrome": Record<string, never>;
+  "market.extensionsEmptyInstalled": Record<string, never>;
   "market.extensionsEnable": Record<string, never>;
   "market.extensionsEnabled": Record<string, never>;
   "market.extensionsFailed": Record<string, never>;
@@ -72,10 +79,12 @@ export interface MessageParams36 {
   "market.extensionsPermissions": Record<string, never>;
   "market.extensionsPin": Record<string, never>;
   "market.extensionsRefresh": Record<string, never>;
+  "market.extensionsRemoteDropHint": Record<string, never>;
   "market.extensionsRemoteFolderHelp": Record<string, never>;
   "market.extensionsRemoteNotice": Record<string, never>;
   "market.extensionsRemoteOpen": Record<string, never>;
   "market.extensionsRemove": Record<string, never>;
+  "market.extensionsSearch": Record<string, never>;
   "market.extensionsStorageFailed": Record<string, never>;
   "market.extensionsTitle": Record<string, never>;
   "market.extensionsUnavailable": Record<string, never>;
@@ -191,13 +200,4 @@ export interface MessageParams36 {
   "market.users": { "count": string | number };
   "market.viewDetails": Record<string, never>;
   "market.visitHomepage": Record<string, never>;
-  "market.visitPage": Record<string, never>;
-  "market.webAddInfo": Record<string, never>;
-  "market.webAnonymousAdd": Record<string, never>;
-  "market.webAnonymousInfo": Record<string, never>;
-  "market.withdraw": Record<string, never>;
-  "menuSearch.clear": Record<string, never>;
-  "menuSearch.close": Record<string, never>;
-  "menuSearch.confirm": Record<string, never>;
-  "menuSearch.hint": Record<string, never>;
 }

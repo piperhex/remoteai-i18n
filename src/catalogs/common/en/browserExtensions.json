@@ -26,7 +26,7 @@
   "market.extensionsCompatibility": "Some extensions rely on Chrome-only features and may not work fully. Reload pages after installing.",
   "market.extensionsUnsupported": "This device does not support installing Chrome extensions yet.",
   "market.extensionsUnavailable": "Could not connect to the browser. Connect to a computer and try again.",
-  "market.extensionsInvalid": "Could not read the extension. Choose an unpacked folder with a valid manifest.json.",
+  "market.extensionsInvalid": "Could not read the extension. Choose a valid package or a complete folder containing manifest.json.",
   "market.extensionsFailed": "The extension operation failed. Check compatibility and try again.",
   "market.extensionsStorageFailed": "Could not save extension settings. Check available disk space and try again.",
   "market.extensionsMissing": "This extension is no longer available. Refresh the list and try again.",
@@ -35,5 +35,14 @@
   "market.extensionsBack": "Back to extensions",
   "market.extensionsRefresh": "Refresh list",
   "market.extensionsLocalNotice": "Manage extensions for this computer's built-in browser.",
-  "market.extensionsRemoteNotice": "Manage extensions on the connected computer; pages in your current browser are unaffected."
+  "market.extensionsRemoteNotice": "Manage extensions on the connected computer; pages in your current browser are unaffected.",
+  "market.extensionsBrowse": "Browse files",
+  "market.extensionsBrowseTitle": "Choose an extension file or folder",
+  "market.extensionsDropTitle": "Drop an extension file or folder",
+  "market.extensionsDropHint": "ZIP, CRX, or an unpacked extension folder",
+  "market.extensionsRemoteDropHint": "Dropped files are sent to the connected computer. Supports ZIP, CRX, and folders.",
+  "market.extensionsDropInvalid": "Add one extension package or a complete extension folder, up to 256 MB.",
+  "market.extensionsSearch": "Search extensions",
+  "market.extensionsChromeAvailable": "Extensions in Chrome",
+  "market.extensionsEmptyInstalled": "No extensions added yet"
 }

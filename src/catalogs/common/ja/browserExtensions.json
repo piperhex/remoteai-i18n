@@ -26,7 +26,7 @@
   "market.extensionsCompatibility": "Chrome 固有の機能に依存する拡張機能は、一部動作しない場合があります。インストール後にページを再読み込みしてください。",
   "market.extensionsUnsupported": "このデバイスは Chrome 拡張機能のインストールにまだ対応していません。",
   "market.extensionsUnavailable": "ブラウザーに接続できませんでした。コンピューターに接続して再試行してください。",
-  "market.extensionsInvalid": "拡張機能を読み取れませんでした。有効な manifest.json を含む展開済みフォルダーを選択してください。",
+  "market.extensionsInvalid": "拡張機能を読み込めません。有効なパッケージまたはmanifest.jsonを含む完全なフォルダーを選択してください。",
   "market.extensionsFailed": "拡張機能の操作に失敗しました。互換性を確認して再試行してください。",
   "market.extensionsStorageFailed": "拡張機能の設定を保存できませんでした。ディスクの空き容量を確認して再試行してください。",
   "market.extensionsMissing": "この拡張機能は利用できなくなりました。一覧を更新して再試行してください。",
@@ -35,5 +35,14 @@
   "market.extensionsBack": "拡張機能の一覧に戻る",
   "market.extensionsRefresh": "一覧を更新",
   "market.extensionsLocalNotice": "このコンピューターの内蔵ブラウザーの拡張機能を管理します。",
-  "market.extensionsRemoteNotice": "接続先コンピューターの拡張機能を管理します。現在のブラウザーのページには影響しません。"
+  "market.extensionsRemoteNotice": "接続先コンピューターの拡張機能を管理します。現在のブラウザーのページには影響しません。",
+  "market.extensionsBrowse": "ファイルを参照",
+  "market.extensionsBrowseTitle": "拡張機能のファイルまたはフォルダーを選択",
+  "market.extensionsDropTitle": "拡張機能のファイルまたはフォルダーをドロップ",
+  "market.extensionsDropHint": "ZIP、CRX、展開済みの拡張機能フォルダーに対応",
+  "market.extensionsRemoteDropHint": "ドロップしたファイルは接続先のPCに転送されます。ZIP、CRX、フォルダーに対応。",
+  "market.extensionsDropInvalid": "256 MB以内の拡張機能パッケージまたは完全なフォルダーを1つ追加してください。",
+  "market.extensionsSearch": "拡張機能を検索",
+  "market.extensionsChromeAvailable": "Chromeの拡張機能",
+  "market.extensionsEmptyInstalled": "追加した拡張機能はありません"
 }

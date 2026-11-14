@@ -26,7 +26,7 @@
   "market.extensionsCompatibility": "部分扩展依赖 Chrome 专用功能，可能无法完整使用。安装后请刷新网页。",
   "market.extensionsUnsupported": "此设备暂不支持安装 Chrome 扩展。",
   "market.extensionsUnavailable": "无法连接浏览器。请连接电脑后重试。",
-  "market.extensionsInvalid": "无法读取扩展，请选择包含有效 manifest.json 的已解压文件夹。",
+  "market.extensionsInvalid": "无法读取扩展，请选择有效的扩展包或包含 manifest.json 的完整文件夹。",
   "market.extensionsFailed": "扩展操作失败，请确认扩展兼容并重试。",
   "market.extensionsStorageFailed": "无法保存扩展设置，请检查磁盘空间后重试。",
   "market.extensionsMissing": "此扩展已不可用，请刷新列表后重试。",
@@ -35,5 +35,14 @@
   "market.extensionsBack": "返回扩展列表",
   "market.extensionsRefresh": "刷新列表",
   "market.extensionsLocalNotice": "此处管理当前电脑内置浏览器的扩展。",
-  "market.extensionsRemoteNotice": "此处管理已连接电脑的扩展；当前浏览器中的网页不受影响。"
+  "market.extensionsRemoteNotice": "此处管理已连接电脑的扩展；当前浏览器中的网页不受影响。",
+  "market.extensionsBrowse": "浏览文件",
+  "market.extensionsBrowseTitle": "选择扩展文件或文件夹",
+  "market.extensionsDropTitle": "拖入扩展文件或文件夹",
+  "market.extensionsDropHint": "支持 ZIP、CRX 和已解压的扩展文件夹",
+  "market.extensionsRemoteDropHint": "拖入的文件会传到已连接电脑；支持 ZIP、CRX 和文件夹",
+  "market.extensionsDropInvalid": "请添加一个扩展包或完整的扩展文件夹，大小不超过 256 MB。",
+  "market.extensionsSearch": "搜索扩展",
+  "market.extensionsChromeAvailable": "Chrome 中的扩展",
+  "market.extensionsEmptyInstalled": "还没有添加扩展"
 }
