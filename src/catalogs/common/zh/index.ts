@@ -2,10 +2,11 @@
 import part0 from './browserAutomation.json';
 import part1 from './browserBookmarks.json';
 import part2 from './browserData.json';
-import part3 from './browserHome.json';
-import part4 from './browserSettings.json';
-import part5 from './browserTabs.json';
-import part6 from './messages.json';
-import part7 from './providerMarket.json';
-const messages: typeof part0 & typeof part1 & typeof part2 & typeof part3 & typeof part4 & typeof part5 & typeof part6 & typeof part7 = { ...part0, ...part1, ...part2, ...part3, ...part4, ...part5, ...part6, ...part7 };
+import part3 from './browserExtensions.json';
+import part4 from './browserHome.json';
+import part5 from './browserSettings.json';
+import part6 from './browserTabs.json';
+import part7 from './messages.json';
+import part8 from './providerMarket.json';
+const messages: typeof part0 & typeof part1 & typeof part2 & typeof part3 & typeof part4 & typeof part5 & typeof part6 & typeof part7 & typeof part8 = { ...part0, ...part1, ...part2, ...part3, ...part4, ...part5, ...part6, ...part7, ...part8 };
 export default messages;
