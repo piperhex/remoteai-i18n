@@ -1,0 +1,10 @@
+{
+  "client.questions.title": "質問",
+  "client.questions.previous": "前の質問",
+  "client.questions.next": "次の質問",
+  "client.questions.position": "{current} / {total}",
+  "client.questions.customReply": "または自由に回答を入力",
+  "client.questions.skip": "スキップ",
+  "client.questions.send": "送信",
+  "client.questions.skippedAnswer": "この質問は回答せずにスキップしました。"
+}

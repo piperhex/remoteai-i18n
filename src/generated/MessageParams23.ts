@@ -64,6 +64,14 @@ export interface MessageParams23 {
   "client.projectPicker.documents": Record<string, never>;
   "client.projectPicker.useFolder": Record<string, never>;
   "client.projectPicker.workWithoutProject": Record<string, never>;
+  "client.questions.customReply": Record<string, never>;
+  "client.questions.next": Record<string, never>;
+  "client.questions.position": { "current": string | number; "total": string | number };
+  "client.questions.previous": Record<string, never>;
+  "client.questions.send": Record<string, never>;
+  "client.questions.skip": Record<string, never>;
+  "client.questions.skippedAnswer": Record<string, never>;
+  "client.questions.title": Record<string, never>;
   "client.remoteAssistance.acceptAndConnect": Record<string, never>;
   "client.remoteAssistance.acceptTheInvitationOnAComputerWhereYouAreSigned": Record<string, never>;
   "client.remoteAssistance.acceptToOpenTheirDesktopEitherPersonCanEndAssistance": Record<string, never>;
@@ -192,12 +200,4 @@ export interface MessageParams23 {
   "client.remoteDesktop.fps.c207a1": Record<string, never>;
   "client.remoteDesktop.frameRate": Record<string, never>;
   "client.remoteDesktop.getRemoteClipboard": Record<string, never>;
-  "client.remoteDesktop.hideConnectionStats": Record<string, never>;
-  "client.remoteDesktop.hideKeyboard": Record<string, never>;
-  "client.remoteDesktop.hideTheRemoteComputerSScreenWhileYouContinueTo": Record<string, never>;
-  "client.remoteDesktop.high": Record<string, never>;
-  "client.remoteDesktop.higherFrameRatesMakeMotionSmootherAndUseMoreBandwidth": Record<string, never>;
-  "client.remoteDesktop.holdAndDragTheCenterArrowsToScrollReleaseTo": Record<string, never>;
-  "client.remoteDesktop.holdAndDragToScroll": Record<string, never>;
-  "client.remoteDesktop.howToUseTheMouseOnYourRemoteDesktop": Record<string, never>;
 }

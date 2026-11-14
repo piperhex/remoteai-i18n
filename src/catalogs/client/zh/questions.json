@@ -1,0 +1,10 @@
+{
+  "client.questions.title": "问题",
+  "client.questions.previous": "上一题",
+  "client.questions.next": "下一题",
+  "client.questions.position": "{current} / {total}",
+  "client.questions.customReply": "或自行撰写回复",
+  "client.questions.skip": "跳过",
+  "client.questions.send": "发送",
+  "client.questions.skippedAnswer": "此题已跳过，暂不回答。"
+}

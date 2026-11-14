@@ -53,6 +53,7 @@ import loungeMenus from '../src/catalogs/client/zh/loungeMenus.json';
 import loungeAssistance from '../src/catalogs/client/zh/loungeAssistance.json';
 import loungeNotifications from '../src/catalogs/client/zh/loungeNotifications.json';
 import conversationSync from '../src/catalogs/client/zh/conversation-sync.json';
+import questions from '../src/catalogs/client/zh/questions.json';
 
 const baselines = {
   "client": "53df2c7fb8ee5d237a417b7bb69de30a1b04dcd1f34b52753015af7aa40f9e1d",
@@ -64,6 +65,7 @@ const additions = new Set(['client.chat.usePlugin',
   ...Object.keys(taskRecovery),
   ...Object.keys(cliGui),
   ...Object.keys(conversationSync),
+  ...Object.keys(questions),
   ...Object.keys(remoteCommand),
   ...Object.keys(computerUseAdmin),
   ...Object.keys(toolResults),

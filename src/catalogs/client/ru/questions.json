@@ -1,0 +1,10 @@
+{
+  "client.questions.title": "Вопрос",
+  "client.questions.previous": "Предыдущий вопрос",
+  "client.questions.next": "Следующий вопрос",
+  "client.questions.position": "{current} из {total}",
+  "client.questions.customReply": "Или напишите свой ответ",
+  "client.questions.skip": "Пропустить",
+  "client.questions.send": "Отправить",
+  "client.questions.skippedAnswer": "Этот вопрос пропущен без ответа."
+}

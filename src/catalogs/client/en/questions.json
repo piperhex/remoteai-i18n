@@ -1,0 +1,10 @@
+{
+  "client.questions.title": "Question",
+  "client.questions.previous": "Previous question",
+  "client.questions.next": "Next question",
+  "client.questions.position": "{current} of {total}",
+  "client.questions.customReply": "Or write your own reply",
+  "client.questions.skip": "Skip",
+  "client.questions.send": "Send",
+  "client.questions.skippedAnswer": "This question was skipped without an answer."
+}
