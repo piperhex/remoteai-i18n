@@ -172,6 +172,7 @@ export interface MessageParams35 {
   "market.browserNoActiveMappings": Record<string, never>;
   "market.browserNoMatchingTabs": Record<string, never>;
   "market.browserPasswordAdd": Record<string, never>;
+  "market.browserPasswordChoose": Record<string, never>;
   "market.browserPasswordDeleteConfirm": Record<string, never>;
   "market.browserPasswordEdit": Record<string, never>;
   "market.browserPasswordEmpty": Record<string, never>;
@@ -199,5 +200,4 @@ export interface MessageParams35 {
   "market.browserSearchEngine": Record<string, never>;
   "market.browserSearchGoogle": Record<string, never>;
   "market.browserSearchOrAddress": Record<string, never>;
-  "market.browserSearchSaveFailed": Record<string, never>;
 }
