@@ -44,5 +44,14 @@
   "market.extensionsDropInvalid": "256 MB以内の拡張機能パッケージまたは完全なフォルダーを1つ追加してください。",
   "market.extensionsSearch": "拡張機能を検索",
   "market.extensionsChromeAvailable": "Chromeの拡張機能",
-  "market.extensionsEmptyInstalled": "追加した拡張機能はありません"
+  "market.extensionsEmptyInstalled": "追加した拡張機能はありません",
+  "market.extensionsMarket": "拡張機能ストア",
+  "market.extensionsMarketHint": "管理者が公開した拡張機能を現在のパソコンにインストールできます。",
+  "market.extensionsMarketEmpty": "公開済みの拡張機能はまだありません。",
+  "market.extensionsMarketFailed": "ストアを読み込めませんでした。もう一度お試しください。",
+  "market.extensionsDownloadFailed": "ダウンロードに失敗したか、パッケージが更新されました。ストアを更新して再試行してください。",
+  "market.extensionsReviewPermissions": "権限の確認",
+  "market.extensionsConfirmInstall": "{name} を現在のパソコンにインストールしますか？",
+  "market.extensionsMarketInstalled": "インストール済み",
+  "market.extensionsDownloading": "ダウンロード中…"
 }

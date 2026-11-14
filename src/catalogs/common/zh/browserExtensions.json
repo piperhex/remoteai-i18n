@@ -44,5 +44,14 @@
   "market.extensionsDropInvalid": "请添加一个扩展包或完整的扩展文件夹，大小不超过 256 MB。",
   "market.extensionsSearch": "搜索扩展",
   "market.extensionsChromeAvailable": "Chrome 中的扩展",
-  "market.extensionsEmptyInstalled": "还没有添加扩展"
+  "market.extensionsEmptyInstalled": "还没有添加扩展",
+  "market.extensionsMarket": "插件市场",
+  "market.extensionsMarketHint": "浏览管理员上架的插件，安装到当前电脑。",
+  "market.extensionsMarketEmpty": "暂无已上架的插件。",
+  "market.extensionsMarketFailed": "插件市场加载失败，请重试。",
+  "market.extensionsDownloadFailed": "下载失败或安装包已更新，请刷新市场后重试。",
+  "market.extensionsReviewPermissions": "确认所需权限",
+  "market.extensionsConfirmInstall": "将 {name} 安装到当前电脑？",
+  "market.extensionsMarketInstalled": "已安装",
+  "market.extensionsDownloading": "正在下载…"
 }

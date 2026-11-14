@@ -1,5 +1,6 @@
 import { ru as browserHome } from './browserHome';
-export default {
+import { ru as browserExtensions } from './browserExtensions';
+export default { ...browserExtensions,
   ...browserHome,
   "app.subtitle": "Консоль управления",
   "language.label": "Язык",

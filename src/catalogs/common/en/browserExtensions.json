@@ -44,5 +44,14 @@
   "market.extensionsDropInvalid": "Add one extension package or a complete extension folder, up to 256 MB.",
   "market.extensionsSearch": "Search extensions",
   "market.extensionsChromeAvailable": "Extensions in Chrome",
-  "market.extensionsEmptyInstalled": "No extensions added yet"
+  "market.extensionsEmptyInstalled": "No extensions added yet",
+  "market.extensionsMarket": "Extension marketplace",
+  "market.extensionsMarketHint": "Browse extensions published by your administrator.",
+  "market.extensionsMarketEmpty": "No extensions are available yet.",
+  "market.extensionsMarketFailed": "Could not load the marketplace. Please try again.",
+  "market.extensionsDownloadFailed": "Download failed or the package changed. Refresh the marketplace and try again.",
+  "market.extensionsReviewPermissions": "Review permissions",
+  "market.extensionsConfirmInstall": "Install {name} on the current computer?",
+  "market.extensionsMarketInstalled": "Installed",
+  "market.extensionsDownloading": "Downloading…"
 }

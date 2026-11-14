@@ -54,8 +54,11 @@ export interface MessageParams36 {
   "market.extensionsChromeAvailable": Record<string, never>;
   "market.extensionsChromeHelp": Record<string, never>;
   "market.extensionsCompatibility": Record<string, never>;
+  "market.extensionsConfirmInstall": { "name": string | number };
   "market.extensionsDisable": Record<string, never>;
   "market.extensionsDisabled": Record<string, never>;
+  "market.extensionsDownloadFailed": Record<string, never>;
+  "market.extensionsDownloading": Record<string, never>;
   "market.extensionsDropHint": Record<string, never>;
   "market.extensionsDropInvalid": Record<string, never>;
   "market.extensionsDropTitle": Record<string, never>;
@@ -73,6 +76,11 @@ export interface MessageParams36 {
   "market.extensionsLoad": Record<string, never>;
   "market.extensionsLocalNotice": Record<string, never>;
   "market.extensionsManage": Record<string, never>;
+  "market.extensionsMarket": Record<string, never>;
+  "market.extensionsMarketEmpty": Record<string, never>;
+  "market.extensionsMarketFailed": Record<string, never>;
+  "market.extensionsMarketHint": Record<string, never>;
+  "market.extensionsMarketInstalled": Record<string, never>;
   "market.extensionsMissing": Record<string, never>;
   "market.extensionsNone": Record<string, never>;
   "market.extensionsOpen": Record<string, never>;
@@ -84,6 +92,7 @@ export interface MessageParams36 {
   "market.extensionsRemoteNotice": Record<string, never>;
   "market.extensionsRemoteOpen": Record<string, never>;
   "market.extensionsRemove": Record<string, never>;
+  "market.extensionsReviewPermissions": Record<string, never>;
   "market.extensionsSearch": Record<string, never>;
   "market.extensionsStorageFailed": Record<string, never>;
   "market.extensionsTitle": Record<string, never>;
@@ -191,13 +200,4 @@ export interface MessageParams36 {
   "market.statsNotice": Record<string, never>;
   "market.thresholdLabel": Record<string, never>;
   "market.title": Record<string, never>;
-  "market.tokenUnit": Record<string, never>;
-  "market.totalItems": { "count": string | number };
-  "market.unavailable": Record<string, never>;
-  "market.unit": { "currency": string | number };
-  "market.unpublished": Record<string, never>;
-  "market.userCount": Record<string, never>;
-  "market.users": { "count": string | number };
-  "market.viewDetails": Record<string, never>;
-  "market.visitHomepage": Record<string, never>;
 }

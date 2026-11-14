@@ -44,5 +44,14 @@
   "market.extensionsDropInvalid": "Добавьте один пакет расширения или полную папку размером до 256 МБ.",
   "market.extensionsSearch": "Поиск расширений",
   "market.extensionsChromeAvailable": "Расширения в Chrome",
-  "market.extensionsEmptyInstalled": "Расширения ещё не добавлены"
+  "market.extensionsEmptyInstalled": "Расширения ещё не добавлены",
+  "market.extensionsMarket": "Каталог расширений",
+  "market.extensionsMarketHint": "Установите опубликованные администратором расширения на текущий компьютер.",
+  "market.extensionsMarketEmpty": "Опубликованных расширений пока нет.",
+  "market.extensionsMarketFailed": "Не удалось загрузить каталог. Повторите попытку.",
+  "market.extensionsDownloadFailed": "Не удалось загрузить пакет или он изменился. Обновите каталог и повторите попытку.",
+  "market.extensionsReviewPermissions": "Проверьте разрешения",
+  "market.extensionsConfirmInstall": "Установить {name} на текущий компьютер?",
+  "market.extensionsMarketInstalled": "Установлено",
+  "market.extensionsDownloading": "Загрузка…"
 }
