@@ -37,7 +37,7 @@
   "market.browserPasswordEmpty": "还没有保存密码",
   "market.browserPasswordAdd": "添加密码",
   "market.browserPasswordEdit": "编辑密码",
-  "market.browserPasswordOrigin": "网站地址（HTTPS）",
+  "market.browserPasswordOrigin": "网站地址",
   "market.browserPasswordUsername": "用户名",
   "market.browserPasswordValue": "密码",
   "market.browserPasswordShow": "显示密码",
@@ -46,7 +46,7 @@
   "market.browserPasswordSavePrompt": "保存此网站的密码？",
   "market.browserPasswordSaveHint": "确认网站和用户名后保存。密码会加密保存并同步到你的其他设备。",
   "market.browserPasswordDeleteConfirm": "删除此密码？其他设备也会同步删除。",
-  "market.browserPasswordInvalid": "请输入有效的 HTTPS 网站地址和密码。",
+  "market.browserPasswordInvalid": "请输入有效的 HTTP 或 HTTPS 网站地址和密码。",
   "market.browserPasswordWebHint": "网页无法向其他网站自动填入密码。可在密码管理中查看，或使用浏览器自带的密码管理功能。",
   "market.browserPasswordFillFailed": "未找到此网站的登录表单，请确认当前页面后重试。",
   "market.browserVaultCreate": "设置密码库口令",
@@ -62,5 +62,5 @@
   "market.browserVaultSyncRequired": "请先连接账号完成同步，再创建密码库。",
   "market.browserVaultCorrupt": "部分密码无法解密，已保留原始数据。",
   "market.browserPasswordSaved": "密码已保存。",
-  "market.browserPasswordHttps": "仅支持为 HTTPS 网站保存和填入密码。"
+  "market.browserPasswordHttps": "支持为 HTTP 和 HTTPS 网站保存和填入密码。"
 }

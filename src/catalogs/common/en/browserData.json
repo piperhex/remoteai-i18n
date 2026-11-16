@@ -37,7 +37,7 @@
   "market.browserPasswordEmpty": "No saved passwords yet",
   "market.browserPasswordAdd": "Add password",
   "market.browserPasswordEdit": "Edit password",
-  "market.browserPasswordOrigin": "Website address (HTTPS)",
+  "market.browserPasswordOrigin": "Website address",
   "market.browserPasswordUsername": "Username",
   "market.browserPasswordValue": "Password",
   "market.browserPasswordShow": "Show password",
@@ -46,7 +46,7 @@
   "market.browserPasswordSavePrompt": "Save this site's password?",
   "market.browserPasswordSaveHint": "Check the site and username before saving. Your password is encrypted and synced to your other devices.",
   "market.browserPasswordDeleteConfirm": "Delete this password? It will also be deleted on your other devices.",
-  "market.browserPasswordInvalid": "Enter a valid HTTPS website address and a password.",
+  "market.browserPasswordInvalid": "Enter a valid HTTP or HTTPS website address and a password.",
   "market.browserPasswordWebHint": "Web apps cannot fill passwords on other sites. View them here or use your browser's password manager.",
   "market.browserPasswordFillFailed": "No login form found for this site. Check the current page and try again.",
   "market.browserVaultCreate": "Set a vault passphrase",
@@ -62,5 +62,5 @@
   "market.browserVaultSyncRequired": "Connect your account and finish syncing before creating a vault.",
   "market.browserVaultCorrupt": "Some passwords could not be decrypted. Their original data has been preserved.",
   "market.browserPasswordSaved": "Password saved.",
-  "market.browserPasswordHttps": "Saving and filling passwords is only supported for HTTPS sites."
+  "market.browserPasswordHttps": "You can save and fill passwords for HTTP and HTTPS sites."
 }

@@ -37,7 +37,7 @@
   "market.browserPasswordEmpty": "Сохранённых паролей пока нет",
   "market.browserPasswordAdd": "Добавить пароль",
   "market.browserPasswordEdit": "Изменить пароль",
-  "market.browserPasswordOrigin": "Адрес сайта (HTTPS)",
+  "market.browserPasswordOrigin": "Адрес сайта",
   "market.browserPasswordUsername": "Имя пользователя",
   "market.browserPasswordValue": "Пароль",
   "market.browserPasswordShow": "Показать пароль",
@@ -46,7 +46,7 @@
   "market.browserPasswordSavePrompt": "Сохранить пароль для этого сайта?",
   "market.browserPasswordSaveHint": "Проверьте сайт и имя пользователя. Пароль будет зашифрован и синхронизирован с другими устройствами.",
   "market.browserPasswordDeleteConfirm": "Удалить этот пароль? Он также будет удалён на других устройствах.",
-  "market.browserPasswordInvalid": "Введите корректный HTTPS-адрес сайта и пароль.",
+  "market.browserPasswordInvalid": "Введите корректный HTTP- или HTTPS-адрес сайта и пароль.",
   "market.browserPasswordWebHint": "Веб-приложение не может заполнять пароли на других сайтах. Просмотрите пароль здесь или используйте менеджер паролей браузера.",
   "market.browserPasswordFillFailed": "Форма входа для этого сайта не найдена. Проверьте текущую страницу.",
   "market.browserVaultCreate": "Задать пароль хранилища",
@@ -62,5 +62,5 @@
   "market.browserVaultSyncRequired": "Подключитесь к аккаунту и завершите синхронизацию перед созданием хранилища.",
   "market.browserVaultCorrupt": "Не удалось расшифровать часть паролей. Исходные данные сохранены.",
   "market.browserPasswordSaved": "Пароль сохранён.",
-  "market.browserPasswordHttps": "Сохранение и заполнение паролей поддерживается только для HTTPS-сайтов."
+  "market.browserPasswordHttps": "Сохранение и заполнение паролей поддерживается для HTTP- и HTTPS-сайтов."
 }
