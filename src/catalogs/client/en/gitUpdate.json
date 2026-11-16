@@ -1,0 +1,20 @@
+{
+  "client.gitUpdate.updatedVersion": "Updated version",
+  "client.gitUpdate.savedChanges": "Saved local changes",
+  "client.gitUpdate.restoreHint": "To restore the full backup, run this command in a clean, separate worktree. Check the current workspace first: some changes may already be restored and should not be applied twice.",
+  "client.gitUpdate.hint": "Fetch remote updates and integrate them into the current branch using the selected method.",
+  "client.gitUpdate.autoSave": "Local changes, including untracked files, will be saved automatically and restored after the update.",
+  "client.gitUpdate.progress": "Updating the project and restoring local changes. Please wait…",
+  "client.gitUpdate.completed": "Update complete. Your local changes are preserved.",
+  "client.gitUpdate.saved": "A backup of your local changes is retained. Finish resolving conflicts or check the restored files.",
+  "client.gitUpdate.checkSave": "Automatic saving did not finish. Check your local files and Git Stash before continuing.",
+  "client.gitUpdate.recovery": "View recovery options",
+  "client.gitUpdate.recoveryHint": "Use Resolve conflicts below if needed. You can also run this command in the project terminal to inspect the backup, including untracked files, before restoring it manually. Confirming completion keeps the backup.",
+  "client.gitUpdate.restore": "Restore local changes",
+  "client.gitUpdate.acknowledge": "Files checked — keep backup",
+  "client.gitUpdate.recoveryClosed": "Recovery check complete. Any retained backup remains available for manual recovery.",
+  "client.gitUpdate.saveFailed": "Could not finish saving local changes. The update has stopped. Check your local files and Git Stash.",
+  "client.gitUpdate.restoreFailed": "Some local changes could not be restored. The backup is retained. Resolve conflicts or view recovery options.",
+  "client.gitUpdate.pending": "The previous update needs attention. Check conflicts and restored local changes first.",
+  "client.gitUpdate.submodule": "A submodule points to a different commit. Commit or reconcile the submodule reference before updating this repository."
+}

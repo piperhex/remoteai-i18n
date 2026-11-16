@@ -1,0 +1,20 @@
+{
+  "client.gitUpdate.updatedVersion": "更新后的版本",
+  "client.gitUpdate.savedChanges": "保存的本地修改",
+  "client.gitUpdate.restoreHint": "需要完整恢复备份时，可在干净的独立工作树中执行以下命令。当前工作区可能已恢复部分修改，请先核对，避免重复应用。",
+  "client.gitUpdate.hint": "获取远程更新，并按所选方式整合到当前分支。",
+  "client.gitUpdate.autoSave": "本地修改（包括未跟踪文件）会自动保存，并在更新后恢复。",
+  "client.gitUpdate.progress": "正在更新项目并恢复本地修改，请稍候…",
+  "client.gitUpdate.completed": "更新完成，本地修改已保留。",
+  "client.gitUpdate.saved": "本地修改的备份已保留。请先完成冲突处理或检查恢复结果。",
+  "client.gitUpdate.checkSave": "自动保存未完成，请检查本地文件和 Git Stash 后再继续。",
+  "client.gitUpdate.recovery": "查看恢复方法",
+  "client.gitUpdate.recoveryHint": "如有冲突，请使用下方的“解决冲突”。也可在项目终端用以下命令查看备份（包含未跟踪文件），核对后手动恢复。确认完成不会删除备份。",
+  "client.gitUpdate.restore": "恢复本地修改",
+  "client.gitUpdate.acknowledge": "已检查恢复结果，保留备份",
+  "client.gitUpdate.recoveryClosed": "恢复检查已完成。保留的备份仍可用于手动恢复。",
+  "client.gitUpdate.saveFailed": "未能完成自动保存，更新已停止。请检查本地文件和 Git Stash。",
+  "client.gitUpdate.restoreFailed": "本地修改未能完整恢复，备份已保留。请解决冲突或查看恢复方法。",
+  "client.gitUpdate.pending": "上次更新仍需处理，请先检查冲突和本地修改的恢复结果。",
+  "client.gitUpdate.submodule": "子模块的提交位置已变化，请先提交或整理子模块引用，再更新此仓库。"
+}

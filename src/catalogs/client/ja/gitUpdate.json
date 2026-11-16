@@ -1,0 +1,20 @@
+{
+  "client.gitUpdate.updatedVersion": "更新後のバージョン",
+  "client.gitUpdate.savedChanges": "保存されたローカルの変更",
+  "client.gitUpdate.restoreHint": "バックアップ全体を復元するには、変更のない別のワークツリーで次のコマンドを実行してください。現在の作業領域には一部の変更が復元されている可能性があるため、重複して適用しないよう先に確認してください。",
+  "client.gitUpdate.hint": "リモートの更新を取得し、選択した方法で現在のブランチに取り込みます。",
+  "client.gitUpdate.autoSave": "未追跡ファイルを含むローカルの変更を自動保存し、更新後に復元します。",
+  "client.gitUpdate.progress": "プロジェクトの更新とローカルの変更の復元中です。お待ちください…",
+  "client.gitUpdate.completed": "更新が完了しました。ローカルの変更は保持されています。",
+  "client.gitUpdate.saved": "ローカルの変更のバックアップは保持されています。競合を解決するか、復元結果を確認してください。",
+  "client.gitUpdate.checkSave": "自動保存が完了しませんでした。続行する前にローカルファイルと Git Stash を確認してください。",
+  "client.gitUpdate.recovery": "復元方法を表示",
+  "client.gitUpdate.recoveryHint": "競合がある場合は下の「競合を解決」を使用してください。プロジェクトのターミナルで次のコマンドを実行すると、未追跡ファイルを含むバックアップを確認し、手動で復元できます。完了を確認してもバックアップは削除されません。",
+  "client.gitUpdate.restore": "ローカルの変更を復元",
+  "client.gitUpdate.acknowledge": "復元結果を確認済み、バックアップを保持",
+  "client.gitUpdate.recoveryClosed": "復元結果の確認が完了しました。保持されたバックアップは手動復元に使用できます。",
+  "client.gitUpdate.saveFailed": "ローカルの変更を保存できず、更新を停止しました。ローカルファイルと Git Stash を確認してください。",
+  "client.gitUpdate.restoreFailed": "一部の変更を復元できませんでした。バックアップは保持されています。競合を解決するか、復元方法を確認してください。",
+  "client.gitUpdate.pending": "前回の更新が未完了です。先に競合とローカルの変更の復元結果を確認してください。",
+  "client.gitUpdate.submodule": "サブモジュールが別のコミットを参照しています。このリポジトリを更新する前に参照をコミットまたは整理してください。"
+}

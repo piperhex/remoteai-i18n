@@ -42,6 +42,7 @@ import jsonPreview from '../src/catalogs/client/zh/jsonPreview.json';
 import modelSelection from '../src/catalogs/client/zh/modelSelection.json';
 import npmScripts from '../src/catalogs/client/zh/npmScripts.json';
 import gitBlame from '../src/catalogs/client/zh/gitBlame.json';
+import gitUpdate from '../src/catalogs/client/zh/gitUpdate.json';
 import remoteDesktopAccess from '../src/catalogs/client/zh/remoteDesktopAccess.json';
 import lounge from '../src/catalogs/client/zh/lounge.json';
 import loungeModeration from '../src/catalogs/client/zh/loungeModeration.json';
@@ -101,6 +102,7 @@ const additions = new Set(['client.chat.usePlugin',
   ...Object.keys(modelSelection),
   ...Object.keys(npmScripts),
   ...Object.keys(gitBlame),
+  ...Object.keys(gitUpdate),
   ...Object.keys(remoteDesktopAccess),
   ...Object.keys(lounge),
   ...Object.keys(loungeModeration),
