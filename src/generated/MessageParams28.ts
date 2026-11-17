@@ -98,7 +98,10 @@ export interface MessageParams28 {
   "client.terminal.connectionLostYouCanContinueWhenItReconnects": Record<string, never>;
   "client.terminal.connectToYourComputerThenTryAgain": Record<string, never>;
   "client.terminal.moreTabs": Record<string, never>;
+  "client.terminal.openInExternalBrowser": Record<string, never>;
   "client.terminal.openingLink": Record<string, never>;
+  "client.terminal.openInSidebarBrowser": Record<string, never>;
+  "client.terminal.openInStandaloneBrowser": Record<string, never>;
   "client.terminal.openTerminalLink": Record<string, never>;
   "client.terminal.openTheRemoteComputerSWebsiteInTheDesktopApp": Record<string, never>;
   "client.terminal.previewInApp": Record<string, never>;
@@ -197,7 +200,4 @@ export interface MessageParams28 {
   "client.workspaceActions.copyToolInput": Record<string, never>;
   "client.workspaceActions.couldNotCopyTheImagePleaseTryAgain": Record<string, never>;
   "client.workspaceActions.couldNotLoadProjectsReopenTheMenuToRetry": Record<string, never>;
-  "client.workspaceActions.couldNotLoadSettingsPleaseTryAgain": Record<string, never>;
-  "client.workspaceActions.couldNotLoadSkillsReopenTheMenuToRetry": Record<string, never>;
-  "client.workspaceActions.couldNotLoadTheCodexGuiAccountReopenThePage": Record<string, never>;
 }

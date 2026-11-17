@@ -1,0 +1,5 @@
+{
+  "client.terminal.openInSidebarBrowser": "右サイドバーのブラウザー",
+  "client.terminal.openInStandaloneBrowser": "独立した内蔵ブラウザー",
+  "client.terminal.openInExternalBrowser": "外部ブラウザー"
+}

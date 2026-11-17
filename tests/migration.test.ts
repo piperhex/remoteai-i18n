@@ -62,6 +62,8 @@ const baselines = {
 
 // New complete templates added after migration are covered by the catalog completeness checks.
 const additions = new Set(['client.chat.usePlugin',
+  'client.terminal.openInSidebarBrowser', 'client.terminal.openInStandaloneBrowser',
+  'client.terminal.openInExternalBrowser',
   ...Object.keys(officialAccounts),
   ...Object.keys(taskRecovery),
   ...Object.keys(cliGui),
