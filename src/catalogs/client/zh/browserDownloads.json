@@ -1,0 +1,9 @@
+{
+  "client.downloads.browser.insecure": "已阻止不安全的下载",
+  "client.downloads.browser.warning": "此文件通过不安全的连接下载。仅在信任来源时选择“保留”。",
+  "client.downloads.browser.unavailable": "此下载已中断，请回到原网页重新下载。",
+  "client.downloads.browser.failed": "下载未完成，请检查网络和存储空间。若仍无法继续，请从原网页重新下载。",
+  "client.downloads.browser.limit": "下载记录已满，请删除不再需要的记录后重试。",
+  "client.downloads.browser.confirmInManager": "下载需要确认，请在下载管理中选择“保留”。",
+  "client.downloads.browser.added": "已加入下载管理。"
+}

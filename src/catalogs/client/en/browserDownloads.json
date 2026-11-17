@@ -1,0 +1,9 @@
+{
+  "client.downloads.browser.insecure": "Insecure download blocked",
+  "client.downloads.browser.warning": "This file uses an insecure connection. Choose Keep only if you trust its source.",
+  "client.downloads.browser.unavailable": "This download was interrupted. Return to the original page to download it again.",
+  "client.downloads.browser.failed": "The download did not finish. Check your connection and storage, or download it again from the original page.",
+  "client.downloads.browser.limit": "The download list is full. Remove unused records and try again.",
+  "client.downloads.browser.confirmInManager": "This download needs confirmation. Choose Keep in Downloads to continue.",
+  "client.downloads.browser.added": "Added to Downloads."
+}

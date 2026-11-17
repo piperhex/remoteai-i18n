@@ -195,9 +195,9 @@ export interface MessageParams10 {
   "client.downloads.appUpdates": Record<string, never>;
   "client.downloads.backToSettings": Record<string, never>;
   "client.downloads.browseFilesAboveOrDownloadFromAFilePreviewIn": Record<string, never>;
-  "client.downloads.cancelAnswer": Record<string, never>;
-  "client.downloads.cancelDownload": Record<string, never>;
-  "client.downloads.cannotDisplayTheImageCheckThatItIsReadableAnd": Record<string, never>;
-  "client.downloads.cannotPreviewTheFileCheckThatItIsReadableAnd": Record<string, never>;
-  "client.downloads.cannotPreviewTheFileCheckThatItIsReadableText": Record<string, never>;
+  "client.downloads.browser.added": Record<string, never>;
+  "client.downloads.browser.confirmInManager": Record<string, never>;
+  "client.downloads.browser.failed": Record<string, never>;
+  "client.downloads.browser.insecure": Record<string, never>;
+  "client.downloads.browser.limit": Record<string, never>;
 }

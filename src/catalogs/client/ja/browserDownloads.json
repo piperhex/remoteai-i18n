@@ -1,0 +1,9 @@
+{
+  "client.downloads.browser.insecure": "安全でないダウンロードをブロックしました",
+  "client.downloads.browser.warning": "このファイルは安全でない接続でダウンロードされます。提供元を信頼できる場合のみ「残す」を選んでください。",
+  "client.downloads.browser.unavailable": "ダウンロードが中断されました。元のページから再度ダウンロードしてください。",
+  "client.downloads.browser.failed": "ダウンロードが完了しませんでした。接続と空き容量を確認するか、元のページから再度ダウンロードしてください。",
+  "client.downloads.browser.limit": "ダウンロード一覧がいっぱいです。不要な履歴を削除して再試行してください。",
+  "client.downloads.browser.confirmInManager": "ダウンロードの確認が必要です。ダウンロード管理で「残す」を選んでください。",
+  "client.downloads.browser.added": "ダウンロード管理に追加しました。"
+}
