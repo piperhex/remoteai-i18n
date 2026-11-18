@@ -180,6 +180,8 @@
   "market.batchDeleteConfirm": "Delete the {count} selected Providers? This cannot be undone. Copies already added to personal lists will remain.",
   "market.batchReviewConfirm": "Review the {count} selected Providers. Please confirm you have checked their content.",
   "market.inspectorTitle": "Developer tools",
+  "market.inspectorMobile": "Mobile device mode",
+  "market.inspectorDeviceFailed": "Couldn’t switch device mode. Try again.",
   "market.inspectorPlacement": "Dock location",
   "market.inspectorRight": "Dock to right",
   "market.inspectorBottom": "Dock to bottom",

@@ -153,7 +153,9 @@ export interface MessageParams36 {
   "market.input": Record<string, never>;
   "market.inputPrice": Record<string, never>;
   "market.inspectorBottom": Record<string, never>;
+  "market.inspectorDeviceFailed": Record<string, never>;
   "market.inspectorFailed": Record<string, never>;
+  "market.inspectorMobile": Record<string, never>;
   "market.inspectorPlacement": Record<string, never>;
   "market.inspectorResize": Record<string, never>;
   "market.inspectorRight": Record<string, never>;
@@ -198,6 +200,4 @@ export interface MessageParams36 {
   "market.permissionManageDescription": Record<string, never>;
   "market.permissionOrder": Record<string, never>;
   "market.permissionOrderDescription": Record<string, never>;
-  "market.permissionPromote": Record<string, never>;
-  "market.permissionPromoteDescription": Record<string, never>;
 }

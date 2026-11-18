@@ -180,6 +180,8 @@
   "market.batchDeleteConfirm": "Удалить выбранные Provider ({count})? Это действие нельзя отменить. Копии в личных списках сохранятся.",
   "market.batchReviewConfirm": "Будут проверены выбранные Provider ({count}). Подтвердите, что вы ознакомились с их содержимым.",
   "market.inspectorTitle": "Инструменты разработчика",
+  "market.inspectorMobile": "Режим мобильного устройства",
+  "market.inspectorDeviceFailed": "Не удалось переключить режим устройства. Попробуйте ещё раз.",
   "market.inspectorPlacement": "Расположение панели",
   "market.inspectorRight": "Закрепить справа",
   "market.inspectorBottom": "Закрепить снизу",
