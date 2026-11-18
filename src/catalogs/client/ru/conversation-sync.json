@@ -35,5 +35,19 @@
   "client.conversationSync.completed": "Синхронизировано чатов: {count}, пропущено: {skipped}.",
   "client.conversationSync.unavailable": "Не удалось прочитать папки на ПК: {names}. Убедитесь, что компьютеры в сети и Remote AI обновлён, затем обновите список.",
   "client.conversationSync.failed": "Синхронизация не завершена. Завершите задачи в этих чатах и повторите попытку. Если ошибка повторится, экспортируйте диагностические журналы.",
-  "client.conversationSync.changed": "Содержимое чатов изменилось. Отмените действие и выберите чаты заново перед синхронизацией."
+  "client.conversationSync.changed": "Содержимое чатов изменилось. Отмените действие и выберите чаты заново перед синхронизацией.",
+  "client.agentHubHome.title": "Папка данных",
+  "client.agentHubHome.current": "Текущая папка",
+  "client.agentHubHome.choose": "Выбрать новую папку",
+  "client.agentHubHome.history": "Ранее использованные папки",
+  "client.agentHubHome.use": "Вернуться к этой папке",
+  "client.agentHubHome.copy": "Скопировать данные из текущей папки",
+  "client.agentHubHome.fresh": "Начать с пустой папки",
+  "client.agentHubHome.apply": "Подтвердить смену",
+  "client.agentHubHome.hint": "Изменение вступит в силу при следующем запуске Remote AI на этом компьютере. К прежней папке можно вернуться.",
+  "client.agentHubHome.pending": "При следующем запуске: {path}",
+  "client.agentHubHome.cancel": "Отменить смену",
+  "client.agentHubHome.invalid": "Выберите отдельную пустую папку или одну из ранее использованных.",
+  "client.agentHubHome.failed": "Сменить папку не удалось. Используется прежняя папка. Проверьте права доступа и свободное место и повторите попытку.",
+  "client.agentHubHome.inactive": "Прежняя папка · Не используется"
 }

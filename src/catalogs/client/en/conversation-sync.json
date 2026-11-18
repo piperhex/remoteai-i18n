@@ -35,5 +35,19 @@
   "client.conversationSync.completed": "Synced {count} conversations; skipped {skipped}.",
   "client.conversationSync.unavailable": "Could not read folders on: {names}. Make sure these computers are online and Remote AI is up to date, then refresh.",
   "client.conversationSync.failed": "Sync did not finish. End any tasks in these conversations and try again. If it still fails, export diagnostic logs.",
-  "client.conversationSync.changed": "Conversation content has changed. Cancel and select the conversations again before syncing."
+  "client.conversationSync.changed": "Conversation content has changed. Cancel and select the conversations again before syncing.",
+  "client.agentHubHome.title": "Data folder",
+  "client.agentHubHome.current": "Current folder",
+  "client.agentHubHome.choose": "Choose a new folder",
+  "client.agentHubHome.history": "Previously used folders",
+  "client.agentHubHome.use": "Switch back",
+  "client.agentHubHome.copy": "Copy data from the current folder",
+  "client.agentHubHome.fresh": "Start with an empty folder",
+  "client.agentHubHome.apply": "Confirm change",
+  "client.agentHubHome.hint": "The change takes effect the next time Remote AI starts on this computer. You can switch back to the previous folder at any time.",
+  "client.agentHubHome.pending": "On next launch: {path}",
+  "client.agentHubHome.cancel": "Cancel change",
+  "client.agentHubHome.invalid": "Choose a separate empty folder or select a previously used folder.",
+  "client.agentHubHome.failed": "The previous folder is still in use. Check folder permissions and available space, then try again.",
+  "client.agentHubHome.inactive": "Previous folder · Not in use"
 }

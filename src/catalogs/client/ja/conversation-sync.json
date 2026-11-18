@@ -35,5 +35,19 @@
   "client.conversationSync.completed": "{count} 件の会話を同期し、{skipped} 件をスキップしました。",
   "client.conversationSync.unavailable": "次の PC のフォルダーを読み取れませんでした：{names}。PC がオンラインで、Remote AI が最新版であることを確認して更新してください。",
   "client.conversationSync.failed": "同期が完了しませんでした。関連する会話のタスクを終了して再試行してください。解決しない場合は診断ログをエクスポートしてください。",
-  "client.conversationSync.changed": "会話の内容が変更されました。キャンセルして会話を選び直し、再度同期してください。"
+  "client.conversationSync.changed": "会話の内容が変更されました。キャンセルして会話を選び直し、再度同期してください。",
+  "client.agentHubHome.title": "データフォルダー",
+  "client.agentHubHome.current": "現在のフォルダー",
+  "client.agentHubHome.choose": "新しいフォルダーを選択",
+  "client.agentHubHome.history": "以前使用したフォルダー",
+  "client.agentHubHome.use": "このフォルダーに戻す",
+  "client.agentHubHome.copy": "現在のフォルダーのデータをコピー",
+  "client.agentHubHome.fresh": "空のフォルダーから始める",
+  "client.agentHubHome.apply": "変更を確定",
+  "client.agentHubHome.hint": "このコンピューターで Remote AI を再起動すると反映されます。以前のフォルダーにはいつでも戻せます。",
+  "client.agentHubHome.pending": "次回起動時に使用：{path}",
+  "client.agentHubHome.cancel": "変更を取り消す",
+  "client.agentHubHome.invalid": "別の空のフォルダーを選ぶか、以前使用したフォルダーを選んでください。",
+  "client.agentHubHome.failed": "フォルダーを変更できませんでした。以前のフォルダーを使用しています。アクセス権と空き容量を確認して再試行してください。",
+  "client.agentHubHome.inactive": "以前のフォルダー · 現在未使用"
 }

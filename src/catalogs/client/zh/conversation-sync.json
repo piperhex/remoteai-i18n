@@ -35,5 +35,19 @@
   "client.conversationSync.completed": "已同步 {count} 条对话，跳过 {skipped} 条。",
   "client.conversationSync.unavailable": "无法读取这些电脑的目录：{names}。请确认电脑在线并已更新 Remote AI，然后刷新重试。",
   "client.conversationSync.failed": "同步未完成，请结束相关对话的任务后重试。若仍无法同步，请导出诊断日志。",
-  "client.conversationSync.changed": "对话内容已发生变化，请取消并重新选择对话后再同步。"
+  "client.conversationSync.changed": "对话内容已发生变化，请取消并重新选择对话后再同步。",
+  "client.agentHubHome.title": "数据目录",
+  "client.agentHubHome.current": "当前目录",
+  "client.agentHubHome.choose": "选择新目录",
+  "client.agentHubHome.history": "以前使用的目录",
+  "client.agentHubHome.use": "切回此目录",
+  "client.agentHubHome.copy": "复制当前目录的数据",
+  "client.agentHubHome.fresh": "从空目录开始",
+  "client.agentHubHome.apply": "确认更换",
+  "client.agentHubHome.hint": "重启这台电脑上的 Remote AI 后生效。旧目录会保留，随时可以切回。",
+  "client.agentHubHome.pending": "下次启动时使用：{path}",
+  "client.agentHubHome.cancel": "撤销更换",
+  "client.agentHubHome.invalid": "请选择一个单独的空文件夹，或从以前使用的目录中选择。",
+  "client.agentHubHome.failed": "未能更换目录，仍在使用原目录。请检查文件夹权限和剩余空间后重试。",
+  "client.agentHubHome.inactive": "旧目录 · 当前未使用"
 }
