@@ -1,6 +1,7 @@
 {
   "market.inspectorDevice": "Устройство",
-  "market.inspectorResponsive": "Свой размер",
+  "market.inspectorResponsive": "Адаптивный",
+  "market.inspectorResizeViewport": "Изменить размеры области просмотра",
   "market.inspectorPhones": "Телефоны",
   "market.inspectorFoldables": "Складные устройства",
   "market.inspectorTablets": "Планшеты и компьютеры",

@@ -1,6 +1,7 @@
 {
   "market.inspectorDevice": "设备",
-  "market.inspectorResponsive": "自定义尺寸",
+  "market.inspectorResponsive": "响应式",
+  "market.inspectorResizeViewport": "调整视口宽高",
   "market.inspectorPhones": "手机",
   "market.inspectorFoldables": "折叠屏",
   "market.inspectorTablets": "平板和电脑",

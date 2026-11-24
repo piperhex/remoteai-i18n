@@ -179,6 +179,7 @@ export interface MessageParams36 {
   "market.inspectorPhones": Record<string, never>;
   "market.inspectorPlacement": Record<string, never>;
   "market.inspectorResize": Record<string, never>;
+  "market.inspectorResizeViewport": Record<string, never>;
   "market.inspectorResponsive": Record<string, never>;
   "market.inspectorRight": Record<string, never>;
   "market.inspectorRotate": Record<string, never>;
@@ -199,5 +200,4 @@ export interface MessageParams36 {
   "market.model": Record<string, never>;
   "market.modelConfiguration": Record<string, never>;
   "market.modelPlaceholder": Record<string, never>;
-  "market.models": Record<string, never>;
 }

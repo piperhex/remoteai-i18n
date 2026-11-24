@@ -1,6 +1,7 @@
 {
   "market.inspectorDevice": "デバイス",
-  "market.inspectorResponsive": "カスタムサイズ",
+  "market.inspectorResponsive": "レスポンシブ",
+  "market.inspectorResizeViewport": "表示領域のサイズを変更",
   "market.inspectorPhones": "スマートフォン",
   "market.inspectorFoldables": "折りたたみ端末",
   "market.inspectorTablets": "タブレットとパソコン",

@@ -1,6 +1,7 @@
 {
   "market.inspectorDevice": "Device",
   "market.inspectorResponsive": "Responsive",
+  "market.inspectorResizeViewport": "Resize viewport",
   "market.inspectorPhones": "Phones",
   "market.inspectorFoldables": "Foldables",
   "market.inspectorTablets": "Tablets & desktops",
