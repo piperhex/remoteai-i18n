@@ -12,6 +12,7 @@ import { createI18n } from '../src/engine';
 import { createErrorFormatter } from '../src/errors';
 import gitConflicts from '../src/catalogs/client/zh/git-conflicts.json';
 import gitActivity from '../src/catalogs/client/zh/gitActivity.json';
+import changeReview from '../src/catalogs/client/zh/changeReview.json';
 import discovery from '../src/catalogs/client/zh/discovery.json';
 import deviceScreen from '../src/catalogs/client/zh/deviceScreen.json';
 import messageQueue from '../src/catalogs/client/zh/messageQueue.json';
@@ -75,6 +76,7 @@ const additions = new Set(['client.chat.usePlugin',
   ...Object.keys(toolResults),
   ...Object.keys(gitConflicts),
   ...Object.keys(gitActivity),
+  ...Object.keys(changeReview),
   ...Object.keys(discovery),
   ...Object.keys(deviceScreen),
   ...Object.keys(messageQueue),

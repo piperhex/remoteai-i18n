@@ -1,0 +1,12 @@
+{
+  "client.changeReview.observed": "本轮期间有变化的文件",
+  "client.changeReview.observationScope": "这些路径在轮次开始与结束时有差异。其他编辑器也可以修改这个工作区。",
+  "client.changeReview.observationIncomplete": "此工作区的文件比对记录不完整。",
+  "client.changeReview.workspace": "工作区修改",
+  "client.changeReview.gitScope": "此视图可查看 Git 工作目录中的文件修改。",
+  "client.changeReview.noWorkspaceFiles": "此视图没有文件修改。",
+  "client.changeReview.noTurn": "尚未选择轮次。",
+  "client.changeReview.empty": "已记录的编辑没有留下差异。",
+  "client.changeReview.tools": "以下为工具编辑记录，本轮的最终差异尚未确认。",
+  "client.changeReview.incomplete": "本轮修改记录不完整。"
+}

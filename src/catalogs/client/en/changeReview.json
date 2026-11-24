@@ -1,0 +1,12 @@
+{
+  "client.changeReview.observed": "Files changed during this turn",
+  "client.changeReview.observationScope": "These paths changed in this worktree between the start and end of the turn. Other editors can write here too.",
+  "client.changeReview.observationIncomplete": "The file comparison is incomplete.",
+  "client.changeReview.workspace": "Workspace changes",
+  "client.changeReview.gitScope": "This view shows files in a Git working directory.",
+  "client.changeReview.noWorkspaceFiles": "No files in this view.",
+  "client.changeReview.noTurn": "No turn selected.",
+  "client.changeReview.empty": "The recorded edits leave no changes.",
+  "client.changeReview.tools": "Tool edits are listed below. A final diff is unavailable.",
+  "client.changeReview.incomplete": "The changes for this turn could not be fully confirmed."
+}

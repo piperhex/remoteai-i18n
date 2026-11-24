@@ -37,6 +37,16 @@ export interface MessageParams3 {
   "client.appearance.globalFontDescription": Record<string, never>;
   "client.appearance.globalFontSize": Record<string, never>;
   "client.appearance.guiFontSettings": Record<string, never>;
+  "client.changeReview.empty": Record<string, never>;
+  "client.changeReview.gitScope": Record<string, never>;
+  "client.changeReview.incomplete": Record<string, never>;
+  "client.changeReview.noTurn": Record<string, never>;
+  "client.changeReview.noWorkspaceFiles": Record<string, never>;
+  "client.changeReview.observationIncomplete": Record<string, never>;
+  "client.changeReview.observationScope": Record<string, never>;
+  "client.changeReview.observed": Record<string, never>;
+  "client.changeReview.tools": Record<string, never>;
+  "client.changeReview.workspace": Record<string, never>;
   "client.chat.1K1000TokensLeaveBlankToUseThe": Record<string, never>;
   "client.chat.access": { "value1": string | number };
   "client.chat.accountAndComputer": Record<string, never>;
@@ -190,14 +200,4 @@ export interface MessageParams3 {
   "client.chat.describeATaskReferenceAConversationCommandsAndSkills": Record<string, never>;
   "client.chat.describeYourGoal": Record<string, never>;
   "client.chat.diffDisplayMode": Record<string, never>;
-  "client.chat.disabled": Record<string, never>;
-  "client.chat.dismissFollowUpQuestion": { "value1": string | number };
-  "client.chat.displayMode": Record<string, never>;
-  "client.chat.duration": { "value1": string | number };
-  "client.chat.duration.8d6d31": Record<string, never>;
-  "client.chat.duration.fdf64e": { "value1": string | number };
-  "client.chat.eachImageMustBeUnderMbChooseASmallerImage": { "value1": string | number };
-  "client.chat.eachMessageCanHaveUpTo8AttachmentsOrConversation": Record<string, never>;
-  "client.chat.eachMessageCanHaveUpTo8FilesOrPlugins": Record<string, never>;
-  "client.chat.earlierMessagesHaveBeenSummarizedYouCanContinueYourCurrent": Record<string, never>;
 }

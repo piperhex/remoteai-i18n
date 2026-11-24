@@ -1,0 +1,12 @@
+{
+  "client.changeReview.observed": "ターン中に変更されたファイル",
+  "client.changeReview.observationScope": "ターンの開始時と終了時で内容が異なるパスです。他のエディターからも変更できます。",
+  "client.changeReview.observationIncomplete": "ファイルの比較結果は不完全です。",
+  "client.changeReview.workspace": "作業ディレクトリの変更",
+  "client.changeReview.gitScope": "このビューでは Git 作業ディレクトリ内の変更を確認できます。",
+  "client.changeReview.noWorkspaceFiles": "このビューに変更はありません。",
+  "client.changeReview.noTurn": "ターンが選択されていません。",
+  "client.changeReview.empty": "記録された編集による差分はありません。",
+  "client.changeReview.tools": "ツールの編集記録です。最終的な差分は確認できませんでした。",
+  "client.changeReview.incomplete": "このターンの変更をすべて確認できませんでした。"
+}

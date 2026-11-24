@@ -1,0 +1,12 @@
+{
+  "client.changeReview.observed": "Файлы, изменившиеся за этот ход",
+  "client.changeReview.observationScope": "Эти пути различались в начале и в конце хода. Другие редакторы также могут изменять эту рабочую папку.",
+  "client.changeReview.observationIncomplete": "Сравнение файлов выполнено не полностью.",
+  "client.changeReview.workspace": "Изменения в рабочей папке",
+  "client.changeReview.gitScope": "Здесь показаны изменения файлов в рабочей папке Git.",
+  "client.changeReview.noWorkspaceFiles": "В этом представлении нет изменений.",
+  "client.changeReview.noTurn": "Ход не выбран.",
+  "client.changeReview.empty": "После записанных правок изменений не осталось.",
+  "client.changeReview.tools": "Ниже перечислены правки инструментов. Итоговые изменения не подтверждены.",
+  "client.changeReview.incomplete": "Не удалось подтвердить все изменения за этот ход."
+}
