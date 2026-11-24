@@ -1,4 +1,13 @@
 {
+  "market.inspectorDevice": "Устройство",
+  "market.inspectorResponsive": "Свой размер",
+  "market.inspectorPhones": "Телефоны",
+  "market.inspectorFoldables": "Складные устройства",
+  "market.inspectorTablets": "Планшеты и компьютеры",
+  "market.inspectorDisplays": "Умные дисплеи",
+  "market.inspectorWidth": "Ширина области просмотра",
+  "market.inspectorHeight": "Высота области просмотра",
+  "market.inspectorRotate": "Повернуть область просмотра",
   "market.reviewPending": "На проверке",
   "market.reviewApproved": "Одобрено",
   "market.reviewRejected": "Не одобрено",

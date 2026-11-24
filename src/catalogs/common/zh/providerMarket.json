@@ -1,4 +1,13 @@
 {
+  "market.inspectorDevice": "设备",
+  "market.inspectorResponsive": "自定义尺寸",
+  "market.inspectorPhones": "手机",
+  "market.inspectorFoldables": "折叠屏",
+  "market.inspectorTablets": "平板和电脑",
+  "market.inspectorDisplays": "智能屏",
+  "market.inspectorWidth": "视口宽度",
+  "market.inspectorHeight": "视口高度",
+  "market.inspectorRotate": "旋转视口",
   "market.reviewPending": "待审核",
   "market.reviewApproved": "审核通过",
   "market.reviewRejected": "未通过审核",

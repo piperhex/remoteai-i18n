@@ -1,4 +1,13 @@
 {
+  "market.inspectorDevice": "Device",
+  "market.inspectorResponsive": "Responsive",
+  "market.inspectorPhones": "Phones",
+  "market.inspectorFoldables": "Foldables",
+  "market.inspectorTablets": "Tablets & desktops",
+  "market.inspectorDisplays": "Smart displays",
+  "market.inspectorWidth": "Viewport width",
+  "market.inspectorHeight": "Viewport height",
+  "market.inspectorRotate": "Rotate viewport",
   "market.reviewPending": "Pending review",
   "market.reviewApproved": "Approved",
   "market.reviewRejected": "Not approved",

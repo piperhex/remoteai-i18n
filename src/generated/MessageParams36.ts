@@ -169,13 +169,22 @@ export interface MessageParams36 {
   "market.input": Record<string, never>;
   "market.inputPrice": Record<string, never>;
   "market.inspectorBottom": Record<string, never>;
+  "market.inspectorDevice": Record<string, never>;
   "market.inspectorDeviceFailed": Record<string, never>;
+  "market.inspectorDisplays": Record<string, never>;
   "market.inspectorFailed": Record<string, never>;
+  "market.inspectorFoldables": Record<string, never>;
+  "market.inspectorHeight": Record<string, never>;
   "market.inspectorMobile": Record<string, never>;
+  "market.inspectorPhones": Record<string, never>;
   "market.inspectorPlacement": Record<string, never>;
   "market.inspectorResize": Record<string, never>;
+  "market.inspectorResponsive": Record<string, never>;
   "market.inspectorRight": Record<string, never>;
+  "market.inspectorRotate": Record<string, never>;
+  "market.inspectorTablets": Record<string, never>;
   "market.inspectorTitle": Record<string, never>;
+  "market.inspectorWidth": Record<string, never>;
   "market.inspectorWindow": Record<string, never>;
   "market.intro": Record<string, never>;
   "market.invalid": Record<string, never>;
@@ -191,13 +200,4 @@ export interface MessageParams36 {
   "market.modelConfiguration": Record<string, never>;
   "market.modelPlaceholder": Record<string, never>;
   "market.models": Record<string, never>;
-  "market.modelsEmpty": Record<string, never>;
-  "market.modelsFetchFailed": Record<string, never>;
-  "market.modelsImported": { "count": string | number };
-  "market.modelsLimit": { "count": string | number };
-  "market.moreActions": Record<string, never>;
-  "market.multiplier": Record<string, never>;
-  "market.name": Record<string, never>;
-  "market.next": Record<string, never>;
-  "market.normal": Record<string, never>;
 }

@@ -1,4 +1,13 @@
 {
+  "market.inspectorDevice": "デバイス",
+  "market.inspectorResponsive": "カスタムサイズ",
+  "market.inspectorPhones": "スマートフォン",
+  "market.inspectorFoldables": "折りたたみ端末",
+  "market.inspectorTablets": "タブレットとパソコン",
+  "market.inspectorDisplays": "スマートディスプレイ",
+  "market.inspectorWidth": "表示幅",
+  "market.inspectorHeight": "表示高さ",
+  "market.inspectorRotate": "表示を回転",
   "market.reviewPending": "審査待ち",
   "market.reviewApproved": "承認済み",
   "market.reviewRejected": "承認されませんでした",
