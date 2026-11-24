@@ -2,5 +2,7 @@
   "market.browserManageTabs": "Manage tabs ({count})",
   "market.browserSearchTabs": "Search tabs",
   "market.browserNoMatchingTabs": "No matching tabs",
-  "market.browserReturnToPage": "Return to page"
+  "market.browserReturnToPage": "Return to page",
+  "market.browserTabMemory": "Memory usage: {usage}",
+  "market.browserTabMemoryUnavailable": "Memory usage unavailable"
 }

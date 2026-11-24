@@ -66,6 +66,8 @@ export interface MessageParams36 {
   "market.browserSettings": Record<string, never>;
   "market.browserStaleReference": Record<string, never>;
   "market.browserTabActions": Record<string, never>;
+  "market.browserTabMemory": { "usage": string | number };
+  "market.browserTabMemoryUnavailable": Record<string, never>;
   "market.browserTabs": Record<string, never>;
   "market.browserTabUnavailable": Record<string, never>;
   "market.browserTitle": Record<string, never>;
@@ -198,6 +200,4 @@ export interface MessageParams36 {
   "market.name": Record<string, never>;
   "market.next": Record<string, never>;
   "market.normal": Record<string, never>;
-  "market.official": Record<string, never>;
-  "market.officialNote": Record<string, never>;
 }

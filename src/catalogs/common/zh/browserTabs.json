@@ -2,5 +2,7 @@
   "market.browserManageTabs": "管理标签页（{count}）",
   "market.browserSearchTabs": "搜索标签页",
   "market.browserNoMatchingTabs": "没有匹配的标签页",
-  "market.browserReturnToPage": "返回网页"
+  "market.browserReturnToPage": "返回网页",
+  "market.browserTabMemory": "内存用量：{usage}",
+  "market.browserTabMemoryUnavailable": "内存用量暂不可用"
 }
