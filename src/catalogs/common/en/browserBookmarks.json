@@ -4,6 +4,7 @@
   "market.bookmarkBar": "Bookmarks bar",
   "market.bookmarkShowBar": "Show bookmarks bar",
   "market.bookmarkAdd": "Add bookmark",
+  "market.bookmarkAddPage": "Add page",
   "market.bookmarkEdit": "Edit bookmark",
   "market.bookmarkDelete": "Delete",
   "market.bookmarkDeleteConfirm": "Delete this bookmark? Bookmarks inside a folder will also be deleted.",

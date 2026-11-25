@@ -156,6 +156,7 @@ export interface MessageParams35 {
   "market.batchReviewConfirm": { "count": string | number };
   "market.batchReviewEligibility": Record<string, never>;
   "market.bookmarkAdd": Record<string, never>;
+  "market.bookmarkAddPage": Record<string, never>;
   "market.bookmarkAll": Record<string, never>;
   "market.bookmarkBar": Record<string, never>;
   "market.bookmarkCapacity": Record<string, never>;
@@ -199,5 +200,4 @@ export interface MessageParams35 {
   "market.browserDataCookiesHint": Record<string, never>;
   "market.browserDataCount": { "count": string | number };
   "market.browserDataDay": Record<string, never>;
-  "market.browserDataDelete": Record<string, never>;
 }
