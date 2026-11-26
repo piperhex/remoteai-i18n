@@ -1,4 +1,7 @@
 {
+  "client.mappingEditor.localDomain": "Свой домен",
+  "client.mappingEditor.localDomainHelp": "Оставьте поле пустым, чтобы использовать IP-адрес. Домен должен указывать на 127.0.0.1 на этом устройстве.",
+  "client.mappingEditor.invalidLocalDomain": "Введите доменное имя, например app.localhost.",
   "client.mappingEditor.chooseDevice": "Выберите компьютер",
   "client.mappingEditor.protocolType": "Тип протокола",
   "client.mappingEditor.sameAsRemote": "Как удалённый",

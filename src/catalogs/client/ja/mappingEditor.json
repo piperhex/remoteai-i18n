@@ -1,4 +1,7 @@
 {
+  "client.mappingEditor.localDomain": "カスタムドメイン",
+  "client.mappingEditor.localDomainHelp": "空欄の場合は IP アドレスを使います。ドメインはこの端末で 127.0.0.1 に解決される必要があります。",
+  "client.mappingEditor.invalidLocalDomain": "app.localhost などのドメイン名を入力してください。",
   "client.mappingEditor.chooseDevice": "パソコンを選択",
   "client.mappingEditor.protocolType": "プロトコルの種類",
   "client.mappingEditor.sameAsRemote": "リモートと同じ",

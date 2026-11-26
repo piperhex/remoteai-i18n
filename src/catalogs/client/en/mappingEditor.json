@@ -1,4 +1,7 @@
 {
+  "client.mappingEditor.localDomain": "Custom domain",
+  "client.mappingEditor.localDomainHelp": "Leave blank to use the IP address. The domain must resolve to 127.0.0.1 on this device.",
+  "client.mappingEditor.invalidLocalDomain": "Enter a domain name such as app.localhost.",
   "client.mappingEditor.chooseDevice": "Choose computer",
   "client.mappingEditor.protocolType": "Protocol type",
   "client.mappingEditor.sameAsRemote": "Same as remote",

@@ -119,6 +119,9 @@ export interface MessageParams18 {
   "client.mappingEditor.editAlias": Record<string, never>;
   "client.mappingEditor.explanation": Record<string, never>;
   "client.mappingEditor.fieldHelp": { "field": string | number };
+  "client.mappingEditor.invalidLocalDomain": Record<string, never>;
+  "client.mappingEditor.localDomain": Record<string, never>;
+  "client.mappingEditor.localDomainHelp": Record<string, never>;
   "client.mappingEditor.protocolType": Record<string, never>;
   "client.mappingEditor.remotePortHelp": Record<string, never>;
   "client.mappingEditor.sameAsRemote": Record<string, never>;
@@ -197,7 +200,4 @@ export interface MessageParams18 {
   "client.mobile.backgroundDownloadsAreUnavailableInThisBuildInstallTheLatest": Record<string, never>;
   "client.mobile.backToAdminConsole": Record<string, never>;
   "client.mobile.backToChat": Record<string, never>;
-  "client.mobile.base32Key": Record<string, never>;
-  "client.mobile.base32KeyOrOtpauthUrl": Record<string, never>;
-  "client.mobile.batchQuotaConsumptionFailed": { "value1": string | number };
 }
