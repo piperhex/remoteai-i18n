@@ -93,6 +93,17 @@ export interface MessageParams17 {
   "client.interface.message.f886d9": Record<string, never>;
   "client.interface.remoteAi": Record<string, never>;
   "client.interface.token": Record<string, never>;
+  "client.keyring.access": Record<string, never>;
+  "client.keyring.create": Record<string, never>;
+  "client.keyring.createDetail": Record<string, never>;
+  "client.keyring.remote": Record<string, never>;
+  "client.keyring.remoteNamed": { "name": string | number };
+  "client.keyring.remoteTitle": Record<string, never>;
+  "client.keyring.retry": Record<string, never>;
+  "client.keyring.service": Record<string, never>;
+  "client.keyring.title": Record<string, never>;
+  "client.keyring.unlock": Record<string, never>;
+  "client.keyring.unlockDetail": Record<string, never>;
   "client.lounge.about": Record<string, never>;
   "client.lounge.accountLookupAmbiguous": Record<string, never>;
   "client.lounge.accountLookupFailed": Record<string, never>;
@@ -189,15 +200,4 @@ export interface MessageParams17 {
   "client.lounge.imageFailed": Record<string, never>;
   "client.lounge.imageFormat": Record<string, never>;
   "client.lounge.imageHint": { "size": string | number };
-  "client.lounge.invalidDuration": Record<string, never>;
-  "client.lounge.latest": Record<string, never>;
-  "client.lounge.localHint": Record<string, never>;
-  "client.lounge.localTitle": Record<string, never>;
-  "client.lounge.login": Record<string, never>;
-  "client.lounge.manageUser": { "account": string | number };
-  "client.lounge.members": Record<string, never>;
-  "client.lounge.membersHint": Record<string, never>;
-  "client.lounge.membersShort": Record<string, never>;
-  "client.lounge.mentionUser": Record<string, never>;
-  "client.lounge.message": Record<string, never>;
 }

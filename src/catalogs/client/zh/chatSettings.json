@@ -8,5 +8,16 @@
   "client.chatSettings.fast": "快速",
   "client.chatSettings.ultrafast": "Ultrafast",
   "client.chatSettings.context": "上下文",
-  "client.chatSettings.quotaRemaining": "额度剩余"
+  "client.chatSettings.quotaRemaining": "额度剩余",
+  "client.keyring.title": "系统密钥环",
+  "client.keyring.create": "设置密钥环",
+  "client.keyring.unlock": "解锁密钥环",
+  "client.keyring.createDetail": "要让其他设备连接这台电脑，请在系统窗口中创建密钥环，用它保存这台电脑的身份密钥。",
+  "client.keyring.unlockDetail": "请在系统窗口中解锁密钥环，以便其他设备验证这台电脑的身份。",
+  "client.keyring.service": "系统密钥环服务不可用。请确认已登录图形会话，安装或启用兼容的密钥环服务后重试。",
+  "client.keyring.access": "暂时无法读取这台电脑的身份密钥。请在系统密钥环中检查它的访问权限，然后重试。",
+  "client.keyring.retry": "重新检查",
+  "client.keyring.remote": "请在远程电脑上完成密钥环设置，完成后将自动连接。",
+  "client.keyring.remoteNamed": "请在「{name}」上完成密钥环设置，完成后将自动连接。",
+  "client.keyring.remoteTitle": "等待远程电脑准备密钥环"
 }

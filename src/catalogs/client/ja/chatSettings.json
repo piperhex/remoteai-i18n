@@ -8,5 +8,16 @@
   "client.chatSettings.fast": "高速",
   "client.chatSettings.ultrafast": "Ultrafast",
   "client.chatSettings.context": "コンテキスト",
-  "client.chatSettings.quotaRemaining": "残り枠"
+  "client.chatSettings.quotaRemaining": "残り枠",
+  "client.keyring.title": "システムキーリング",
+  "client.keyring.create": "キーリングを設定",
+  "client.keyring.unlock": "キーリングのロックを解除",
+  "client.keyring.createDetail": "他の端末からこのコンピューターに接続するには、システムの画面でキーリングを作成してください。このコンピューターの識別鍵が保存されます。",
+  "client.keyring.unlockDetail": "他の端末がこのコンピューターの識別鍵を確認できるよう、システムの画面でキーリングのロックを解除してください。",
+  "client.keyring.service": "キーリングサービスを利用できません。グラフィカルセッションにログインし、対応するキーリングサービスをインストールまたは有効化してから再試行してください。",
+  "client.keyring.access": "このコンピューターの識別鍵を読み取れません。システムキーリングでアクセス権を確認してから再試行してください。",
+  "client.keyring.retry": "再確認",
+  "client.keyring.remote": "接続先のコンピューターでキーリングの設定を完了してください。設定後に自動で再接続します。",
+  "client.keyring.remoteNamed": "「{name}」でキーリングの設定を完了してください。設定後に自動で再接続します。",
+  "client.keyring.remoteTitle": "接続先のキーリングを待機中"
 }

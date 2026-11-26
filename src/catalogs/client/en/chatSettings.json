@@ -8,5 +8,16 @@
   "client.chatSettings.fast": "Fast",
   "client.chatSettings.ultrafast": "Ultrafast",
   "client.chatSettings.context": "Context",
-  "client.chatSettings.quotaRemaining": "Quota left"
+  "client.chatSettings.quotaRemaining": "Quota left",
+  "client.keyring.title": "System keyring",
+  "client.keyring.create": "Set up keyring",
+  "client.keyring.unlock": "Unlock keyring",
+  "client.keyring.createDetail": "To connect to this computer from another device, create a keyring in the system dialog. It will store this computer’s identity key.",
+  "client.keyring.unlockDetail": "Unlock the keyring in the system dialog so other devices can verify this computer’s identity.",
+  "client.keyring.service": "The system keyring service is unavailable. Sign in to a graphical session, install or enable a compatible keyring service, then try again.",
+  "client.keyring.access": "The identity key could not be read. Check its access permissions in the system keyring, then try again.",
+  "client.keyring.retry": "Check again",
+  "client.keyring.remote": "Complete keyring setup on the remote computer. The connection will retry automatically.",
+  "client.keyring.remoteNamed": "Complete keyring setup on {name}. The connection will retry automatically.",
+  "client.keyring.remoteTitle": "Waiting for the remote keyring"
 }
