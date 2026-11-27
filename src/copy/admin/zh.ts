@@ -3,4 +3,5 @@ import part2 from './zh2';
 import part3 from './zh3';
 import { zh as browserHome } from './browserHome';
 import { zh as browserExtensions } from './browserExtensions';
-export default { ...browserExtensions, ...part1, ...part2, ...part3, ...browserHome };
+import { zh as fileSharing } from './fileSharing';
+export default { ...browserExtensions, ...part1, ...part2, ...part3, ...browserHome, ...fileSharing };

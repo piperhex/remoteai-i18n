@@ -1,7 +1,9 @@
 import { ru as browserHome } from './browserHome';
 import { ru as browserExtensions } from './browserExtensions';
+import { ru as fileSharing } from './fileSharing';
 export default { ...browserExtensions,
   ...browserHome,
+  ...fileSharing,
   "app.subtitle": "Консоль управления",
   "language.label": "Язык",
   "nav.myAccounts": "Мои аккаунты",
