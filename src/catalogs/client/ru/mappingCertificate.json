@@ -1,0 +1,9 @@
+{
+  "client.mappingCertificate.title": "Не удалось подтвердить подлинность сайта",
+  "client.mappingCertificate.description": "Браузер не смог проверить сертификат {host}. Если вы знаете этот сервис, сверьте отпечаток сертификата.",
+  "client.mappingCertificate.advanced": "Подробнее",
+  "client.mappingCertificate.back": "Вернуться в безопасное место",
+  "client.mappingCertificate.trust": "Доверять сертификату и продолжить",
+  "client.mappingCertificate.remember": "Выбор запоминается для этого проброса порта. Новый сертификат потребует подтверждения.",
+  "client.mappingCertificate.changed": "Сертификат изменился. Снова сверьте его отпечаток."
+}

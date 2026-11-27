@@ -1,0 +1,9 @@
+{
+  "client.mappingCertificate.title": "This site’s identity could not be verified",
+  "client.mappingCertificate.description": "The browser could not verify the certificate for {host}. If you recognize this service, check its certificate fingerprint.",
+  "client.mappingCertificate.advanced": "Advanced",
+  "client.mappingCertificate.back": "Back to safety",
+  "client.mappingCertificate.trust": "Trust this certificate and continue",
+  "client.mappingCertificate.remember": "Your choice applies to this mapping. A new certificate will require confirmation.",
+  "client.mappingCertificate.changed": "The certificate has changed. Check its fingerprint again."
+}

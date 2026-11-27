@@ -1,0 +1,9 @@
+{
+  "client.mappingCertificate.title": "无法验证此网站的身份",
+  "client.mappingCertificate.description": "浏览器无法确认 {host} 的证书。如果你认识此服务，请先核对证书指纹。",
+  "client.mappingCertificate.advanced": "高级",
+  "client.mappingCertificate.back": "返回安全页面",
+  "client.mappingCertificate.trust": "信任此证书并继续",
+  "client.mappingCertificate.remember": "仅为此映射记住选择。证书更换后会再次询问。",
+  "client.mappingCertificate.changed": "证书已更换，请重新核对指纹。"
+}

@@ -110,6 +110,13 @@ export interface MessageParams18 {
   "client.lounge.userUnavailable": Record<string, never>;
   "client.lounge.viewOriginal": Record<string, never>;
   "client.lounge.viewProfile": { "account": string | number };
+  "client.mappingCertificate.advanced": Record<string, never>;
+  "client.mappingCertificate.back": Record<string, never>;
+  "client.mappingCertificate.changed": Record<string, never>;
+  "client.mappingCertificate.description": { "host": string | number };
+  "client.mappingCertificate.remember": Record<string, never>;
+  "client.mappingCertificate.title": Record<string, never>;
+  "client.mappingCertificate.trust": Record<string, never>;
   "client.mappingEditor.alias": Record<string, never>;
   "client.mappingEditor.aliasHint": Record<string, never>;
   "client.mappingEditor.aliasSaveFailed": Record<string, never>;
@@ -193,11 +200,4 @@ export interface MessageParams18 {
   "client.mobile.authorizeAgain": Record<string, never>;
   "client.mobile.auto": Record<string, never>;
   "client.mobile.automaticCloudSync": Record<string, never>;
-  "client.mobile.availableCreditsWillBeCheckedBeforeUse": Record<string, never>;
-  "client.mobile.availableVersionV": Record<string, never>;
-  "client.mobile.averageOutputSpeedForThisConversationOutputTokensDividedBy": Record<string, never>;
-  "client.mobile.averageTimeFromSendingARequestToReceivingTheFirst": Record<string, never>;
-  "client.mobile.awaitingReply": Record<string, never>;
-  "client.mobile.back": Record<string, never>;
-  "client.mobile.backgroundChatIsUnavailableReopenTheAppAndTryAgain": Record<string, never>;
 }

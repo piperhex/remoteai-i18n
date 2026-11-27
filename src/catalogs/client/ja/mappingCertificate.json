@@ -1,0 +1,9 @@
+{
+  "client.mappingCertificate.title": "サイトの身元を確認できません",
+  "client.mappingCertificate.description": "{host} の証明書を検証できませんでした。心当たりのあるサービスなら、証明書の指紋を照合してください。",
+  "client.mappingCertificate.advanced": "詳細",
+  "client.mappingCertificate.back": "安全なページに戻る",
+  "client.mappingCertificate.trust": "この証明書を信頼して続行",
+  "client.mappingCertificate.remember": "このマッピングについてのみ選択を記憶します。証明書が変わると再確認を求めます。",
+  "client.mappingCertificate.changed": "証明書が変更されました。指紋をもう一度照合してください。"
+}
