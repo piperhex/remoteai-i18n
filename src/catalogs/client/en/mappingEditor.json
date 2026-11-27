@@ -1,4 +1,5 @@
 {
+  "client.mappingEditor.linkProtocol": "Link protocol",
   "client.mappingEditor.localDomain": "Custom domain",
   "client.mappingEditor.localDomainHelp": "Leave blank to use the IP address. The built-in browser opens mapped domains directly. For other browsers, point the domain to 127.0.0.1.",
   "client.mappingEditor.invalidLocalDomain": "Enter a domain name such as app.localhost.",

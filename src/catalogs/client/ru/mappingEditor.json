@@ -1,4 +1,5 @@
 {
+  "client.mappingEditor.linkProtocol": "Протокол ссылки",
   "client.mappingEditor.localDomain": "Свой домен",
   "client.mappingEditor.localDomainHelp": "Оставьте поле пустым, чтобы использовать IP-адрес. Во встроенном браузере домен открывается сразу. Для других браузеров настройте его так, чтобы он указывал на 127.0.0.1.",
   "client.mappingEditor.invalidLocalDomain": "Введите доменное имя, например app.localhost.",

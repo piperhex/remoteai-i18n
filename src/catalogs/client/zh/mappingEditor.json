@@ -1,4 +1,5 @@
 {
+  "client.mappingEditor.linkProtocol": "链接协议",
   "client.mappingEditor.localDomain": "自定义域名",
   "client.mappingEditor.localDomainHelp": "留空时使用 IP。内置浏览器可直接打开映射域名。使用系统浏览器时，请将域名指向 127.0.0.1。",
   "client.mappingEditor.invalidLocalDomain": "请输入域名，例如 app.localhost。",

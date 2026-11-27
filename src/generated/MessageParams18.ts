@@ -120,6 +120,7 @@ export interface MessageParams18 {
   "client.mappingEditor.explanation": Record<string, never>;
   "client.mappingEditor.fieldHelp": { "field": string | number };
   "client.mappingEditor.invalidLocalDomain": Record<string, never>;
+  "client.mappingEditor.linkProtocol": Record<string, never>;
   "client.mappingEditor.localDomain": Record<string, never>;
   "client.mappingEditor.localDomainHelp": Record<string, never>;
   "client.mappingEditor.protocolType": Record<string, never>;
@@ -199,5 +200,4 @@ export interface MessageParams18 {
   "client.mobile.awaitingReply": Record<string, never>;
   "client.mobile.back": Record<string, never>;
   "client.mobile.backgroundChatIsUnavailableReopenTheAppAndTryAgain": Record<string, never>;
-  "client.mobile.backgroundDownloadsAreUnavailableInThisBuildInstallTheLatest": Record<string, never>;
 }

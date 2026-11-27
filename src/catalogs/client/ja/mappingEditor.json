@@ -1,4 +1,5 @@
 {
+  "client.mappingEditor.linkProtocol": "リンクのプロトコル",
   "client.mappingEditor.localDomain": "カスタムドメイン",
   "client.mappingEditor.localDomainHelp": "空欄の場合は IP アドレスを使います。内蔵ブラウザーではマッピングしたドメインをそのまま開けます。他のブラウザーでは、ドメインが 127.0.0.1 を指すように設定してください。",
   "client.mappingEditor.invalidLocalDomain": "app.localhost などのドメイン名を入力してください。",
