@@ -1,4 +1,6 @@
 {
+  "client.mappingHub.consumerCount": "使用中の端末：{count} 台",
+  "client.mappingHub.noConsumers": "このマッピングを使用中の端末はありません。",
   "client.mappingHub.noDevices": "利用できるデバイスがありません。パソコンで同じアカウントにログインしてください。",
   "client.mappingHub.retrying": "接続中です。接続が復旧するとマッピングが自動で開始されます。",
   "client.mappingHub.portConflict": "このローカルポートは別のマッピングで使用されています。別のポートを選んでください。",

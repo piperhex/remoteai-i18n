@@ -1,4 +1,6 @@
 {
+  "client.mappingHub.consumerCount": "Devices using this mapping: {count}",
+  "client.mappingHub.noConsumers": "No devices are using this mapping.",
   "client.mappingHub.noDevices": "No devices available. Sign in to the same account on your computer first.",
   "client.mappingHub.retrying": "Connecting. Enabled mappings will start when the connection is restored.",
   "client.mappingHub.portConflict": "This local port is already used by another mapping. Choose a different port.",

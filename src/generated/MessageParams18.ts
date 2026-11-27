@@ -126,7 +126,9 @@ export interface MessageParams18 {
   "client.mappingEditor.remotePortHelp": Record<string, never>;
   "client.mappingEditor.sameAsRemote": Record<string, never>;
   "client.mappingEditor.save": Record<string, never>;
+  "client.mappingHub.consumerCount": { "count": string | number };
   "client.mappingHub.device": Record<string, never>;
+  "client.mappingHub.noConsumers": Record<string, never>;
   "client.mappingHub.noDevices": Record<string, never>;
   "client.mappingHub.portConflict": Record<string, never>;
   "client.mappingHub.retrying": Record<string, never>;
@@ -198,6 +200,4 @@ export interface MessageParams18 {
   "client.mobile.back": Record<string, never>;
   "client.mobile.backgroundChatIsUnavailableReopenTheAppAndTryAgain": Record<string, never>;
   "client.mobile.backgroundDownloadsAreUnavailableInThisBuildInstallTheLatest": Record<string, never>;
-  "client.mobile.backToAdminConsole": Record<string, never>;
-  "client.mobile.backToChat": Record<string, never>;
 }
