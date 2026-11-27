@@ -1,6 +1,10 @@
 {
   "mirrors": [
     {
+      "source": "platform/desktop/src-tauri/src/provider_browser/certificates/copy.rs",
+      "target": "apps/desktop/src-tauri/src/provider_browser/certificates/copy.rs"
+    },
+    {
       "source": "platform/desktop/src-tauri/src/remote_command/messages.rs",
       "target": "apps/desktop/src-tauri/src/remote_command/messages.rs"
     },
