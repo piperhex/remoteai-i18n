@@ -100,6 +100,9 @@ export interface MessageParams18 {
   "client.lounge.title": Record<string, never>;
   "client.lounge.tooLong": Record<string, never>;
   "client.lounge.tooManyImages": Record<string, never>;
+  "client.lounge.trayIgnoreAll": Record<string, never>;
+  "client.lounge.trayUnread": Record<string, never>;
+  "client.lounge.trayViewAll": Record<string, never>;
   "client.lounge.unavailable": Record<string, never>;
   "client.lounge.unblockUser": Record<string, never>;
   "client.lounge.unmute": Record<string, never>;
@@ -197,7 +200,4 @@ export interface MessageParams18 {
   "client.mobile.authJsonDoesNotContainValidJson": Record<string, never>;
   "client.mobile.authorizationExpiredReopenTheSignInWindow": Record<string, never>;
   "client.mobile.authorizationTimedOutTryAgain": Record<string, never>;
-  "client.mobile.authorizeAgain": Record<string, never>;
-  "client.mobile.auto": Record<string, never>;
-  "client.mobile.automaticCloudSync": Record<string, never>;
 }

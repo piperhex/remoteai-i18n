@@ -56,6 +56,7 @@ import loungeNames from '../src/catalogs/client/zh/loungeNames.json';
 import loungeMenus from '../src/catalogs/client/zh/loungeMenus.json';
 import loungeAssistance from '../src/catalogs/client/zh/loungeAssistance.json';
 import loungeNotifications from '../src/catalogs/client/zh/loungeNotifications.json';
+import loungeTray from '../src/catalogs/client/zh/loungeTray.json';
 import conversationSync from '../src/catalogs/client/zh/conversation-sync.json';
 import questions from '../src/catalogs/client/zh/questions.json';
 
@@ -122,6 +123,7 @@ const additions = new Set(['client.chat.usePlugin',
   ...Object.keys(loungeAttachments),
   ...Object.keys(loungeAssistance),
   ...Object.keys(loungeNotifications),
+  ...Object.keys(loungeTray),
   'client.remoteDesktop.takeoverTitle', 'client.remoteDesktop.takeoverMessage',
   'client.remoteDesktop.takeoverConfirm', 'client.remoteDesktop.takeoverCancel',
   'client.remoteDesktop.connectionInUse', 'client.remoteDesktop.connectionCancelled',
